@@ -1,3 +1,4 @@
-# MP2_WebAppDev
-BLACKPINK fanpage
-[![Netlify Status](https://api.netlify.com/api/v1/badges/620d3db5-8b21-40f3-abcf-632898500b1f/deploy-status)](https://app.netlify.com/sites/blackpink-fanpage-jamie/deploys)
+# BLACKPINK Fan-made Web App
+A responsive web application presenting the details about a K-Pop group, BLACKPINK. It uses HTML, CSS, and JavaScript to make the site attractive and interactive.
+
+Deployed site: https://blackpink-fanpage-jamie.netlify.app/
